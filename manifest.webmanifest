@@ -1,0 +1,21 @@
+{
+  "name": "アプリエ｜AI App Maker",
+  "short_name": "アプリエ",
+  "description": "AIとの対話を通してWebアプリの構想・作成・修正・理解を支援する学習・開発ツール",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7eee7",
+  "theme_color": "#f7eee7",
+  "icons": [
+    {
+      "src": "app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
